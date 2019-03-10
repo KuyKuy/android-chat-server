@@ -1,0 +1,9 @@
+{
+  "name": "android-chat-server",
+  "version": "0.0.1",
+  "description": "Server para la app de chat en Android",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  }
+}
